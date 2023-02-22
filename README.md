@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**thidasok/thidasok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<img width="1760" alt="Group 39" src="https://user-images.githubusercontent.com/126014965/220553770-cdf4ac3d-4189-41bc-9348-41ee73189c9e.png">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
